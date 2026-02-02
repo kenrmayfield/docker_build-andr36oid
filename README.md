@@ -5,7 +5,8 @@ Install the WideVine(DRM) x64Bit after Flashing: [https://github.com/AsahiLinux/
     Kodi InputStreamHelper Installs a 32Bit WideVine(DRM) Module that is InCompatible with AARCH64. 
      
     Manually Copy "libwidevinecdm.so" from "/usr/lib64/chromium-browser/WidevineCdm/_platform_specific/linux_arm64/" 
-    (created by Asahi Widevine(DRM) Installer) into the Directory "~/.kodi/cdm" or the Full Path "/home/<username>/.kodi/cdm/".
+    (created by Asahi Widevine(DRM) Installer) into the Directory:
+    "~/.kodi/cdm" or the Full Path "/home/<username>/.kodi/cdm/".
       
 This Docker environment provides a complete, reproducible build system for creating Android images for the R36S game console based on LineageOS 18.1.
 
