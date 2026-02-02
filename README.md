@@ -1,5 +1,8 @@
 # R36S Android Build Environment (Docker)
-
+### NOTE: 
+      Install the WideVine(DRM) x64Bit after Flashing: https://github.com/AsahiLinux/widevine-installer
+      Kodi InputStreamHelper Installs a 32Bit WideVine(DRM) Module that is InCompatible with AARCH64. 
+      
 This Docker environment provides a complete, reproducible build system for creating Android images for the R36S game console based on LineageOS 18.1.
 
 ## Directory Structure
